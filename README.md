@@ -85,7 +85,7 @@ Gary Simon creator of Design Course on Youtube.com deserves credit for the origi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Balantzer/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Balantzer/Fauxica.svg?style=for-the-badge
 [contributors-url]: https://github.com/Balantzer/Fauxica/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Balantzer/Fauxica.svg?style=for-the-badge
 [forks-url]: https://github.com/Balantzer/Fauxica/network/members
