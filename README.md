@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -8,7 +12,7 @@
 <br />
 <div align="center">
   
-  <img src="images/logo.svg" alt="Logo" width="80" height="80">
+  <img src="images/ReadMElogo.svg" alt="Logo" width="80" height="80">
 
   <h3 align="center">README</h3>
 
@@ -81,6 +85,14 @@ Gary Simon creator of Design Course on Youtube.com deserves credit for the origi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/Balantzer/Fauxica/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/Balantzer/Fauxica/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/Balantzer/Fauxica/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/Balantzer/Fauxica/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/Balantzer/Fauxica/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
