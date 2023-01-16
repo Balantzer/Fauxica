@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 
-![MIT License][license-shield]
+![MIT License][license-shield]][license-url]
+![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -79,4 +80,7 @@ Gary Simon creator of Design Course on Youtube.com deserves credit for the origi
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/Balantzer/Fauxica/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/skylerhantz
 [product-screenshot]: images/screenshot.png
