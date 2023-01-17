@@ -139,14 +139,14 @@ h1 {
   z-index: 2;
 }
 
-p.employees {
+.employees {
   font-size: 3.3rem;
   margin: 0;
   font-weight: 200;
   line-height: 100%;
 }
 
-p.details {
+.details {
   font-size: 1.4rem;
   margin: 0;
 }
